@@ -1,6 +1,4 @@
-Here is the demo
-
-[http://aim-trainer.netlify.com]
+Demo here : http://aim-trainer.netlify.com
 
 In the project directory, you can run:
 
