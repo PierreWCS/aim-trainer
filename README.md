@@ -1,6 +1,7 @@
 Here is the demo
 
-[aim-trainer.netlify.com]
+[http://aim-trainer.netlify.com]
+
 In the project directory, you can run:
 
 ### `npm start`
